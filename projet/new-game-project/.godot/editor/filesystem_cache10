@@ -1,58 +1,58 @@
-ea4bc82a6ad023ab7ee23ee620429895
-::res://::1764961712
-export_presets.cfg::TextFile/TextFile::-1::1762372171::0::1::::<><><>0<>0<><>::
-icon.svg::CompressedTexture2D/CompressedTexture2D::5595937461561422112::1762178803::1762178803::1::::<><><>0<>0<>1f9ce6d16174b97754c234cbba8b0778<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://assets/::1764961564
-portal_new.png::CompressedTexture2D/CompressedTexture2D::4773393391939572809::1762178804::1762178967::1::::<><><>0<>0<>b8df21e5c396d6da6f58f0701bc92f61<>res://.godot/imported/portal_new.png-db78b3f3def461e9121b12c8831f0a7e.ctex::
-::res://assets/audio/::1764961563
-capsulepickup.wav::AudioStreamWAV/AudioStreamWAV::7696540478607402575::1762178804::1762178804::1::::<><><>0<>0<>691c33b621c429575b1ab263462db6e3<>res://.godot/imported/capsulepickup.wav-63e1aeb69adfbe60cf1d89f8ca80af6d.sample::
-Ethereal_Ambient_Music_Copyright_Free.wav::AudioStreamWAV/AudioStreamWAV::8699120706110151311::1762178804::1762178804::1::::<><><>0<>0<>4ab627bd943fc6dba617a264de8babff<>res://.godot/imported/Ethereal_Ambient_Music_Copyright_Free.wav-d535fc508bb492e0a2e8a2772ad2aef4.sample::
-portal_enter.wav::AudioStreamWAV/AudioStreamWAV::6300379748665417613::1762181165::1762181262::1::::<><><>0<>0<>3f15497ae421e83cd03134b51005ebbd<>res://.godot/imported/portal_enter.wav-0f38a0d2eb9a6337a86cafc4cd75a535.sample::
-::res://assets/Fonts/::1764961563
-Kenney Blocks.ttf::FontFile/FontFile::5278707799118616055::1762370026::1762370053::1::::<><><>0<>0<>0bf11c4694bed4c113238763ace810d6<>res://.godot/imported/Kenney Blocks.ttf-64632e973be3cbbb5de78d891890ee05.fontdata::
-Kenney Future Narrow.ttf::FontFile/FontFile::7291708568390409547::1762370026::1762370053::1::::<><><>0<>0<>30d214c4e11f36e37f3939a1cbd0c3cf<>res://.godot/imported/Kenney Future Narrow.ttf-301df4fdb0f9e9f2e07ce3c0f461dccd.fontdata::
-Kenney Future.ttf::FontFile/FontFile::6937301926822295267::1762370026::1762370053::1::::<><><>0<>0<>b88fcaecbc88490d610b9351db53cc28<>res://.godot/imported/Kenney Future.ttf-d046583541bdf2b4d8304d362a680449.fontdata::
-Kenney High Square.ttf::FontFile/FontFile::4052706940503745743::1762370026::1762370053::1::::<><><>0<>0<>9559ae9aed51f3f9a378804f7ee56104<>res://.godot/imported/Kenney High Square.ttf-31cf241a9e4b08ed1ede4c4ece8b8295.fontdata::
-Kenney High.ttf::FontFile/FontFile::8900951679261410604::1762370026::1762370053::1::::<><><>0<>0<>5b4529590bcd1ac2f9b62c1d473cb95e<>res://.godot/imported/Kenney High.ttf-e1cffc8feca349e3b2468c63a8225519.fontdata::
-Kenney Mini Square Mono.ttf::FontFile/FontFile::4798447421461465578::1762370026::1762370053::1::::<><><>0<>0<>cf29af30578a4c7e8f1e956eccf3c9e0<>res://.godot/imported/Kenney Mini Square Mono.ttf-af2d7d93b948dc0c2735b6cdee649336.fontdata::
-Kenney Mini Square.ttf::FontFile/FontFile::4332984343264623025::1762370026::1762370053::1::::<><><>0<>0<>96a4fb08bc7020b8bde2d0bd3ae74955<>res://.godot/imported/Kenney Mini Square.ttf-c49f8ef1e49f69b3f8da5d1786aa5f74.fontdata::
-Kenney Mini.ttf::FontFile/FontFile::3436711222130958345::1762370026::1762370053::1::::<><><>0<>0<>24435241eb376d30426ef93c71b10260<>res://.godot/imported/Kenney Mini.ttf-f6e816f8968c0ca76db18efbb448ca70.fontdata::
-Kenney Pixel Square.ttf::FontFile/FontFile::4765913857028655498::1762370026::1762370053::1::::<><><>0<>0<>381f7f9fa08c8614e7e65f43023bc373<>res://.godot/imported/Kenney Pixel Square.ttf-87d12b7133dcb0cab032f3d23f9126b0.fontdata::
-Kenney Pixel.ttf::FontFile/FontFile::2115857992169033688::1762370026::1762370053::1::::<><><>0<>0<>76ef1bb4905c24781d301e9fd6489e5c<>res://.godot/imported/Kenney Pixel.ttf-bfeee1b80514f0a82a1024eba2c5fa2a.fontdata::
-Kenney Rocket Square.ttf::FontFile/FontFile::3366341964387743540::1762370026::1762370053::1::::<><><>0<>0<>240a05bd053171ea9b478f6a0509d194<>res://.godot/imported/Kenney Rocket Square.ttf-dbb5f3f57e75b91a3303c7bab51670de.fontdata::
-Kenney Rocket.ttf::FontFile/FontFile::2893156480086718562::1762370026::1762370053::1::::<><><>0<>0<>fe42d4582c600435ded2251edda3dad9<>res://.godot/imported/Kenney Rocket.ttf-068c6fea1b9afcff4c5cbda5ba66e00d.fontdata::
-::res://assets/scenes/::1764961563
-capsule.tscn::PackedScene/PackedScene::6847094506726430480::1764958446::0::1::::<><><>0<>0<><>::uid://6f36t2ubosmo::::res://assets/sprites/energy_cell.png<>uid://tkclh3kga2hb::::res://assets/scripts/capsule.gd<>uid://dhwi5rfybngd0::::res://assets/audio/capsulepickup.wav<>uid://3rkjx1cq8ltv::::res://assets/scripts/capsulehitboxson.gd
-gameplay.tscn::PackedScene/PackedScene::2460074581677730885::1764958447::0::1::::<><><>0<>0<><>::uid://ca7pqo43w75gh::::res://assets/scenes/player.tscn<>uid://c27qyh0rvi5l0::::res://assets/scenes/UI/hud.tscn
-pausemenu.gd::GDScript/GDScript::3755350383528548917::1762178804::0::1::::<>Control<><>0<>0<><>::
-pausemenu.tscn::PackedScene/PackedScene::6676074672461672740::1762178804::0::1::::<><><>0<>0<><>::uid://btrecpn54ksy4::::res://assets/scenes/pausemenu.gd
-player.tscn::PackedScene/PackedScene::4839841564539204203::1764958447::0::1::::<><><>0<>0<><>::uid://caokfgyp0a4rb::::res://assets/sprites/player.png<>uid://166nlyaj02xa::::res://assets/scripts/player_controller.gd<>uid://b7jainrw12v70::::res://assets/scripts/player_animator.gd
-::res://assets/scenes/areafunctionality/::1764961563
-areaexit.tscn::PackedScene/PackedScene::2288384804837597119::1764958446::0::1::::<><><>0<>0<><>::uid://dnmlwmin5rq0n::::res://assets/scripts/areaexit.gd<>uid://caajdecxgshc0::::res://assets/portal_new.png<>uid://cv07lmcdqbt0h::::res://assets/audio/portal_enter.wav
-area_template.tscn::PackedScene/PackedScene::5747512470785581111::1764958481::0::1::::<><><>0<>0<><>::uid://by2vtn0n16ws3::::res://assets/scripts/scriptpausing.gd<>uid://blbtreiv1gx7v::::res://assets/sprites/tiles_1.png<>uid://c4s1v77ngq0fc::::res://assets/scenes/capsule.tscn<>uid://dv66inu6p32k6::::res://assets/audio/Ethereal_Ambient_Music_Copyright_Free.wav<>uid://7urmmdapu1pj::::res://assets/scenes/areafunctionality/areaexit.tscn
-::res://assets/scenes/areas/::1764961563
-area_1.tscn::PackedScene/PackedScene::6547962420470271966::1764958446::0::1::::<><><>0<>0<><>::uid://cn5exqofse4gx::::res://assets/scenes/areafunctionality/area_template.tscn
-area_2.tscn::PackedScene/PackedScene::6547962420470271966::1764958446::0::1::::<><><>0<>0<><>::uid://cn5exqofse4gx::::res://assets/scenes/areafunctionality/area_template.tscn
-area_3.tscn::PackedScene/PackedScene::5184332449680580765::1764958447::0::1::::<><><>0<>0<><>::uid://by2vtn0n16ws3::::res://assets/scripts/scriptpausing.gd<>uid://blbtreiv1gx7v::::res://assets/sprites/tiles_1.png<>uid://c4s1v77ngq0fc::::res://assets/scenes/capsule.tscn<>uid://dv66inu6p32k6::::res://assets/audio/Ethereal_Ambient_Music_Copyright_Free.wav<>uid://7urmmdapu1pj::::res://assets/scenes/areafunctionality/areaexit.tscn
-area_4.tscn::PackedScene/PackedScene::2165166953012951292::1764958447::0::1::::<><><>0<>0<><>::uid://by2vtn0n16ws3::::res://assets/scripts/scriptpausing.gd<>uid://blbtreiv1gx7v::::res://assets/sprites/tiles_1.png<>uid://c4s1v77ngq0fc::::res://assets/scenes/capsule.tscn<>uid://dv66inu6p32k6::::res://assets/audio/Ethereal_Ambient_Music_Copyright_Free.wav<>uid://7urmmdapu1pj::::res://assets/scenes/areafunctionality/areaexit.tscn
-area_non usable.tscn::PackedScene/PackedScene::6547962420470271966::1764958446::0::1::::<><><>0<>0<><>::uid://by2vtn0n16ws3::::res://assets/scripts/scriptpausing.gd<>uid://ca7pqo43w75gh::::res://assets/scenes/player.tscn<>uid://blbtreiv1gx7v::::res://assets/sprites/tiles_1.png<>uid://c4s1v77ngq0fc::::res://assets/scenes/capsule.tscn<>uid://dv66inu6p32k6::::res://assets/audio/Ethereal_Ambient_Music_Copyright_Free.wav<>uid://7urmmdapu1pj::::res://assets/scenes/areafunctionality/areaexit.tscn
-::res://assets/scenes/UI/::1764961563
-hud.tscn::PackedScene/PackedScene::6735014971765346423::1764958447::0::1::::<><><>0<>0<><>::uid://6f36t2ubosmo::::res://assets/sprites/energy_cell.png<>uid://coegpsydri6mh::::res://assets/scripts/hud.gd<>uid://bvqjq4hkhb6w6::::res://assets/UI settings/new_label_settings.tres
-::res://assets/scripts/::1764961563
-areaexit.gd::GDScript/GDScript::8097197369078855463::1762364095::0::1::::areaexit<>Area2D<><>0<>0<><>::
-capsule.gd::GDScript/GDScript::1354373295762078203::1762181638::0::1::::<>Area2D<><>0<>0<><>::
-capsulehitboxson.gd::GDScript/GDScript::2001006534072262415::1762178804::0::1::::<>CollisionShape2D<><>0<>0<><>::
-game_manager.gd::GDScript/GDScript::339839550105161610::1764958445::0::1::::<>Node<><>0<>0<><>::
-hud.gd::GDScript/GDScript::5764134760855050059::1762371345::0::1::::HUD<>Control<><>0<>0<><>::
-player_animator.gd::GDScript/GDScript::4651058076348552101::1762178804::0::1::::<>Node2D<><>0<>0<><>::
-player_controller.gd::GDScript/GDScript::1890811701906418258::1762368170::0::1::::Playercontroller<>CharacterBody2D<><>0<>0<><>::
-scriptpausing.gd::GDScript/GDScript::4128000839348093008::1762367402::0::1::::<>Node2D<><>0<>0<><>::
-::res://assets/sprites/::1764961564
-enemy_1.png::CompressedTexture2D/CompressedTexture2D::3482996013515570060::1762178804::1762178804::1::::<><><>0<>0<>51eeefc9591d0f6554a33b0a62625ac0<>res://.godot/imported/enemy_1.png-460e42ad744f9aa16eb7d7784d056fd7.ctex::
-energy_cell.png::CompressedTexture2D/CompressedTexture2D::2187932517521803822::1762178804::1762178804::1::::<><><>0<>0<>88562a7eaab278243226111d93d4db5e<>res://.godot/imported/energy_cell.png-b718a01aff5b66416ca0811b5664aec8.ctex::
-platform1_large.png::CompressedTexture2D/CompressedTexture2D::1508212058231450408::1762178804::1762178804::1::::<><><>0<>0<>d5680e6f66dae6dfb461101bdd50fc92<>res://.godot/imported/platform1_large.png-54390b66be5e2f87edb158f9cd0cea11.ctex::
-player.png::CompressedTexture2D/CompressedTexture2D::4802359107770608807::1762178804::1762178804::1::::<><><>0<>0<>fda78b6fc740c937a61d5039c796ec05<>res://.godot/imported/player.png-e1eaffe0873063c60a0d0b322e4d87d9.ctex::
-portal.png::CompressedTexture2D/CompressedTexture2D::8115305939239598632::1762178804::1762178804::1::::<><><>0<>0<>4db814d2b137e9fabc9ce699bcf6a93d<>res://.godot/imported/portal.png-e9e966284d3a920af62fdd6e8e7a808a.ctex::
-tiles_1.png::CompressedTexture2D/CompressedTexture2D::3161746546265451169::1762178804::1762178804::1::::<><><>0<>0<>27d03dbd589aa29708548e0a8c6126dc<>res://.godot/imported/tiles_1.png-a876898cc547892f8c39a44dd40d6b15.ctex::
-::res://assets/UI settings/::1764961564
-new_label_settings.tres::LabelSettings/LabelSettings::3893993004248683647::1764958445::0::1::::<><><>0<>0<><>::uid://bo71eqjcpeyp2::::res://assets/Fonts/Kenney Mini.ttf
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1764964453
+export_presets.cfg::TextFile::-1::1764964407::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D/CompressedTexture2D::5595937461561422112::1764964407::1764964407::1::::<><><>0<>0<>1f9ce6d16174b97754c234cbba8b0778<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1764964407
+portal_new.png::CompressedTexture2D/CompressedTexture2D::4773393391939572809::1764964407::1764964407::1::::<><><>0<>0<>b8df21e5c396d6da6f58f0701bc92f61<>res://.godot/imported/portal_new.png-db78b3f3def461e9121b12c8831f0a7e.ctex::
+::res://assets/audio/::1764964407
+capsulepickup.wav::AudioStreamWAV/AudioStreamWAV::7696540478607402575::1764964407::1764964407::1::::<><><>0<>0<>691c33b621c429575b1ab263462db6e3<>res://.godot/imported/capsulepickup.wav-63e1aeb69adfbe60cf1d89f8ca80af6d.sample::
+Ethereal_Ambient_Music_Copyright_Free.wav::AudioStreamWAV/AudioStreamWAV::8699120706110151311::1764964407::1764964407::1::::<><><>0<>0<>4ab627bd943fc6dba617a264de8babff<>res://.godot/imported/Ethereal_Ambient_Music_Copyright_Free.wav-d535fc508bb492e0a2e8a2772ad2aef4.sample::
+portal_enter.wav::AudioStreamWAV/AudioStreamWAV::6300379748665417613::1764964407::1764964407::1::::<><><>0<>0<>3f15497ae421e83cd03134b51005ebbd<>res://.godot/imported/portal_enter.wav-0f38a0d2eb9a6337a86cafc4cd75a535.sample::
+::res://assets/Fonts/::1764964407
+Kenney Blocks.ttf::FontFile/FontFile::5278707799118616055::1764964407::1764964407::1::::<><><>0<>0<>0bf11c4694bed4c113238763ace810d6<>res://.godot/imported/Kenney Blocks.ttf-64632e973be3cbbb5de78d891890ee05.fontdata::
+Kenney Future Narrow.ttf::FontFile/FontFile::7291708568390409547::1764964407::1764964407::1::::<><><>0<>0<>30d214c4e11f36e37f3939a1cbd0c3cf<>res://.godot/imported/Kenney Future Narrow.ttf-301df4fdb0f9e9f2e07ce3c0f461dccd.fontdata::
+Kenney Future.ttf::FontFile/FontFile::6937301926822295267::1764964407::1764964407::1::::<><><>0<>0<>b88fcaecbc88490d610b9351db53cc28<>res://.godot/imported/Kenney Future.ttf-d046583541bdf2b4d8304d362a680449.fontdata::
+Kenney High Square.ttf::FontFile/FontFile::4052706940503745743::1764964407::1764964407::1::::<><><>0<>0<>9559ae9aed51f3f9a378804f7ee56104<>res://.godot/imported/Kenney High Square.ttf-31cf241a9e4b08ed1ede4c4ece8b8295.fontdata::
+Kenney High.ttf::FontFile/FontFile::8900951679261410604::1764964407::1764964407::1::::<><><>0<>0<>5b4529590bcd1ac2f9b62c1d473cb95e<>res://.godot/imported/Kenney High.ttf-e1cffc8feca349e3b2468c63a8225519.fontdata::
+Kenney Mini Square Mono.ttf::FontFile/FontFile::4798447421461465578::1764964407::1764964407::1::::<><><>0<>0<>cf29af30578a4c7e8f1e956eccf3c9e0<>res://.godot/imported/Kenney Mini Square Mono.ttf-af2d7d93b948dc0c2735b6cdee649336.fontdata::
+Kenney Mini Square.ttf::FontFile/FontFile::4332984343264623025::1764964407::1764964407::1::::<><><>0<>0<>96a4fb08bc7020b8bde2d0bd3ae74955<>res://.godot/imported/Kenney Mini Square.ttf-c49f8ef1e49f69b3f8da5d1786aa5f74.fontdata::
+Kenney Mini.ttf::FontFile/FontFile::3436711222130958345::1764964407::1764964407::1::::<><><>0<>0<>24435241eb376d30426ef93c71b10260<>res://.godot/imported/Kenney Mini.ttf-f6e816f8968c0ca76db18efbb448ca70.fontdata::
+Kenney Pixel Square.ttf::FontFile/FontFile::4765913857028655498::1764964407::1764964407::1::::<><><>0<>0<>381f7f9fa08c8614e7e65f43023bc373<>res://.godot/imported/Kenney Pixel Square.ttf-87d12b7133dcb0cab032f3d23f9126b0.fontdata::
+Kenney Pixel.ttf::FontFile/FontFile::2115857992169033688::1764964407::1764964407::1::::<><><>0<>0<>76ef1bb4905c24781d301e9fd6489e5c<>res://.godot/imported/Kenney Pixel.ttf-bfeee1b80514f0a82a1024eba2c5fa2a.fontdata::
+Kenney Rocket Square.ttf::FontFile/FontFile::3366341964387743540::1764964407::1764964407::1::::<><><>0<>0<>240a05bd053171ea9b478f6a0509d194<>res://.godot/imported/Kenney Rocket Square.ttf-dbb5f3f57e75b91a3303c7bab51670de.fontdata::
+Kenney Rocket.ttf::FontFile/FontFile::2893156480086718562::1764964407::1764964407::1::::<><><>0<>0<>fe42d4582c600435ded2251edda3dad9<>res://.godot/imported/Kenney Rocket.ttf-068c6fea1b9afcff4c5cbda5ba66e00d.fontdata::
+::res://assets/scenes/::1764964407
+capsule.tscn::PackedScene::6847094506726430480::1764964407::0::1::::<><><>0<>0<><>::uid://6f36t2ubosmo::::res://assets/sprites/energy_cell.png<>uid://tkclh3kga2hb::::res://assets/scripts/capsule.gd<>uid://dhwi5rfybngd0::::res://assets/audio/capsulepickup.wav<>uid://3rkjx1cq8ltv::::res://assets/scripts/capsulehitboxson.gd
+gameplay.tscn::PackedScene::2460074581677730885::1764964407::0::1::::<><><>0<>0<><>::uid://ca7pqo43w75gh::::res://assets/scenes/player.tscn<>uid://c27qyh0rvi5l0::::res://assets/scenes/UI/hud.tscn
+pausemenu.gd::GDScript::3755350383528548917::1764964407::0::1::::<>Control<><>0<>0<><>::
+pausemenu.tscn::PackedScene::6676074672461672740::1764964407::0::1::::<><><>0<>0<><>::uid://btrecpn54ksy4::::res://assets/scenes/pausemenu.gd
+player.tscn::PackedScene::4839841564539204203::1764964407::0::1::::<><><>0<>0<><>::uid://caokfgyp0a4rb::::res://assets/sprites/player.png<>uid://166nlyaj02xa::::res://assets/scripts/player_controller.gd<>uid://b7jainrw12v70::::res://assets/scripts/player_animator.gd
+::res://assets/scenes/areafunctionality/::1764964407
+areaexit.tscn::PackedScene::2288384804837597119::1764964407::0::1::::<><><>0<>0<><>::uid://dnmlwmin5rq0n::::res://assets/scripts/areaexit.gd<>uid://caajdecxgshc0::::res://assets/portal_new.png<>uid://cv07lmcdqbt0h::::res://assets/audio/portal_enter.wav
+area_template.tscn::PackedScene::5747512470785581111::1764964407::0::1::::<><><>0<>0<><>::uid://by2vtn0n16ws3::::res://assets/scripts/scriptpausing.gd<>uid://blbtreiv1gx7v::::res://assets/sprites/tiles_1.png<>uid://c4s1v77ngq0fc::::res://assets/scenes/capsule.tscn<>uid://dv66inu6p32k6::::res://assets/audio/Ethereal_Ambient_Music_Copyright_Free.wav<>uid://7urmmdapu1pj::::res://assets/scenes/areafunctionality/areaexit.tscn
+::res://assets/scenes/areas/::1764964407
+area_1.tscn::PackedScene::6547962420470271966::1764964407::0::1::::<><><>0<>0<><>::uid://cn5exqofse4gx::::res://assets/scenes/areafunctionality/area_template.tscn
+area_2.tscn::PackedScene::6547962420470271966::1764964407::0::1::::<><><>0<>0<><>::uid://cn5exqofse4gx::::res://assets/scenes/areafunctionality/area_template.tscn
+area_3.tscn::PackedScene::5184332449680580765::1764964407::0::1::::<><><>0<>0<><>::uid://by2vtn0n16ws3::::res://assets/scripts/scriptpausing.gd<>uid://blbtreiv1gx7v::::res://assets/sprites/tiles_1.png<>uid://c4s1v77ngq0fc::::res://assets/scenes/capsule.tscn<>uid://dv66inu6p32k6::::res://assets/audio/Ethereal_Ambient_Music_Copyright_Free.wav<>uid://7urmmdapu1pj::::res://assets/scenes/areafunctionality/areaexit.tscn
+area_4.tscn::PackedScene::2165166953012951292::1764964407::0::1::::<><><>0<>0<><>::uid://by2vtn0n16ws3::::res://assets/scripts/scriptpausing.gd<>uid://blbtreiv1gx7v::::res://assets/sprites/tiles_1.png<>uid://c4s1v77ngq0fc::::res://assets/scenes/capsule.tscn<>uid://dv66inu6p32k6::::res://assets/audio/Ethereal_Ambient_Music_Copyright_Free.wav<>uid://7urmmdapu1pj::::res://assets/scenes/areafunctionality/areaexit.tscn
+area_non usable.tscn::PackedScene::6547962420470271966::1764964407::0::1::::<><><>0<>0<><>::uid://by2vtn0n16ws3::::res://assets/scripts/scriptpausing.gd<>uid://ca7pqo43w75gh::::res://assets/scenes/player.tscn<>uid://blbtreiv1gx7v::::res://assets/sprites/tiles_1.png<>uid://c4s1v77ngq0fc::::res://assets/scenes/capsule.tscn<>uid://dv66inu6p32k6::::res://assets/audio/Ethereal_Ambient_Music_Copyright_Free.wav<>uid://7urmmdapu1pj::::res://assets/scenes/areafunctionality/areaexit.tscn
+::res://assets/scenes/UI/::1764964407
+hud.tscn::PackedScene::6735014971765346423::1764964407::0::1::::<><><>0<>0<><>::uid://6f36t2ubosmo::::res://assets/sprites/energy_cell.png<>uid://coegpsydri6mh::::res://assets/scripts/hud.gd<>uid://bvqjq4hkhb6w6::::res://assets/UI settings/new_label_settings.tres
+::res://assets/scripts/::1764964407
+areaexit.gd::GDScript::8097197369078855463::1764964407::0::1::::areaexit<>Area2D<><>0<>0<><>::
+capsule.gd::GDScript::1354373295762078203::1764964407::0::1::::<>Area2D<><>0<>0<><>::
+capsulehitboxson.gd::GDScript::2001006534072262415::1764964407::0::1::::<>CollisionShape2D<><>0<>0<><>::
+game_manager.gd::GDScript::339839550105161610::1764964407::0::1::::<>Node<><>0<>0<><>::
+hud.gd::GDScript::5764134760855050059::1764964407::0::1::::HUD<>Control<><>0<>0<><>::
+player_animator.gd::GDScript::4651058076348552101::1764964407::0::1::::<>Node2D<><>0<>0<><>::
+player_controller.gd::GDScript::1890811701906418258::1764964407::0::1::::Playercontroller<>CharacterBody2D<><>0<>0<><>::
+scriptpausing.gd::GDScript::4128000839348093008::1764964407::0::1::::<>Node2D<><>0<>0<><>::
+::res://assets/sprites/::1764964407
+enemy_1.png::CompressedTexture2D/CompressedTexture2D::3482996013515570060::1764964407::1764964407::1::::<><><>0<>0<>51eeefc9591d0f6554a33b0a62625ac0<>res://.godot/imported/enemy_1.png-460e42ad744f9aa16eb7d7784d056fd7.ctex::
+energy_cell.png::CompressedTexture2D/CompressedTexture2D::2187932517521803822::1764964407::1764964407::1::::<><><>0<>0<>88562a7eaab278243226111d93d4db5e<>res://.godot/imported/energy_cell.png-b718a01aff5b66416ca0811b5664aec8.ctex::
+platform1_large.png::CompressedTexture2D/CompressedTexture2D::1508212058231450408::1764964407::1764964407::1::::<><><>0<>0<>d5680e6f66dae6dfb461101bdd50fc92<>res://.godot/imported/platform1_large.png-54390b66be5e2f87edb158f9cd0cea11.ctex::
+player.png::CompressedTexture2D/CompressedTexture2D::4802359107770608807::1764964407::1764964407::1::::<><><>0<>0<>fda78b6fc740c937a61d5039c796ec05<>res://.godot/imported/player.png-e1eaffe0873063c60a0d0b322e4d87d9.ctex::
+portal.png::CompressedTexture2D/CompressedTexture2D::8115305939239598632::1764964407::1764964407::1::::<><><>0<>0<>4db814d2b137e9fabc9ce699bcf6a93d<>res://.godot/imported/portal.png-e9e966284d3a920af62fdd6e8e7a808a.ctex::
+tiles_1.png::CompressedTexture2D/CompressedTexture2D::3161746546265451169::1764964407::1764964407::1::::<><><>0<>0<>27d03dbd589aa29708548e0a8c6126dc<>res://.godot/imported/tiles_1.png-a876898cc547892f8c39a44dd40d6b15.ctex::
+::res://assets/UI settings/::1764964407
+new_label_settings.tres::LabelSettings::3893993004248683647::1764964407::0::1::::<><><>0<>0<><>::uid://bo71eqjcpeyp2::::res://assets/Fonts/Kenney Mini.ttf

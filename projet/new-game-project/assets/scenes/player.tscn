@@ -1,8 +1,9 @@
-[gd_scene load_steps=11 format=3 uid="uid://ca7pqo43w75gh"]
+[gd_scene load_steps=12 format=3 uid="uid://ca7pqo43w75gh"]
 
 [ext_resource type="Texture2D" uid="uid://caokfgyp0a4rb" path="res://assets/sprites/player.png" id="1_rwm0n"]
 [ext_resource type="Script" uid="uid://166nlyaj02xa" path="res://assets/scripts/player_controller.gd" id="1_s027a"]
 [ext_resource type="Script" uid="uid://b7jainrw12v70" path="res://assets/scripts/player_animator.gd" id="2_14505"]
+[ext_resource type="PackedScene" uid="uid://c2d68eqrv16v5" path="res://assets/scenes/pausemenu.tscn" id="3_pause"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_s027a"]
 radius = 5.0
@@ -131,3 +132,6 @@ position = Vector2(0, -8)
 texture = ExtResource("1_rwm0n")
 region_enabled = true
 region_rect = Rect2(0, 0, 16, 16)
+
+[node name="pausemenu" parent="." instance=ExtResource("3_pause")]
+visible = false
